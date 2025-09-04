@@ -1,0 +1,6 @@
+@FHS_EventService_HostAddress = http://localhost:5122
+
+GET {{FHS_EventService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
